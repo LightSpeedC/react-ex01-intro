@@ -1,0 +1,28 @@
+{
+  "name": "react-ex01-intro",
+  "version": "0.0.0",
+  "description": "React.js Example 01 Introduction",
+  "main": "index.js",
+  "author": "LightSpeedC",
+  "license": "MIT",
+  "private": true,
+  "keywords": [
+    "react"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LightSpeedC/react-ex01-intro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LightSpeedC/react-ex01-intro/issues"
+  },
+  "homepage": "https://github.com/LightSpeedC/react-ex01-intro#readme"
+}
